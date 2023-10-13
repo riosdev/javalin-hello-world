@@ -1,0 +1,13 @@
+# Compiled classes and JARs
+/target/
+
+# IDE-specific settings (depends on your IDE)
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# OS-specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
